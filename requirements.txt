@@ -1,0 +1,10 @@
+geopandas
+logging
+matplotlib
+numpy
+os
+pandas
+plotly
+pycountry
+re
+seaborn

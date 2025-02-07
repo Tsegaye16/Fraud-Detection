@@ -1,0 +1,167 @@
+2025-02-07 10:43:06,887 - logger - INFO - Dataset loaded successfully.
+2025-02-07 11:32:06,615 - logger - INFO - Dataset loaded successfully.
+2025-02-07 11:37:01,020 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 11:37:01,722 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 11:44:41,603 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 11:44:43,651 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 12:02:05,093 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 12:02:05,568 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 12:04:56,050 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 12:04:57,369 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 12:08:37,840 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 12:08:39,663 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 12:09:37,852 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 12:09:47,939 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 14:32:50,675 - logger - INFO - Dataset loaded successfully.
+2025-02-07 14:32:59,914 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 14:33:00,699 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 14:33:27,053 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 14:33:28,984 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 14:33:32,655 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 14:33:33,412 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 14:33:39,646 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 14:33:40,882 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 14:33:40,894 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 14:33:42,914 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 14:33:42,927 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 14:33:51,770 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 15:12:42,318 - logger - INFO - Dataset loaded successfully.
+2025-02-07 15:12:50,372 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 15:12:51,225 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 15:13:19,597 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 15:13:21,706 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 15:13:24,589 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 15:13:25,005 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 15:13:29,278 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 15:13:30,530 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 15:13:30,544 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 15:13:32,567 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 15:13:32,582 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 15:13:41,648 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 16:14:52,525 - logger - INFO - Dataset loaded successfully.
+2025-02-07 16:14:59,823 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 16:15:00,663 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 16:15:32,207 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 16:15:34,606 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 16:15:37,917 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 16:15:38,347 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 16:15:44,350 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 16:15:45,661 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 16:15:45,675 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 16:15:47,833 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 16:15:47,848 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 16:16:01,333 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 16:25:23,615 - logger - INFO - Dataset loaded successfully.
+2025-02-07 16:25:32,530 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 16:25:33,538 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 16:26:11,432 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 16:26:13,776 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 16:26:17,192 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 16:26:17,669 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 16:26:24,062 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 16:26:25,536 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 16:26:25,553 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 16:26:28,206 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 16:26:28,222 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 16:26:40,607 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 16:32:25,831 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 16:39:38,304 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 16:48:20,730 - logger - INFO - Dataset loaded successfully.
+2025-02-07 16:48:28,281 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 16:48:29,243 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 16:49:02,828 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 16:49:05,359 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 16:49:09,163 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 16:49:09,574 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 16:49:15,446 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 16:49:16,907 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 16:49:16,921 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 16:49:19,214 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 16:49:19,246 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 16:49:30,870 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 16:49:52,291 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 16:49:52,300 - logger - INFO - Country names standardized successfully.
+2025-02-07 16:49:52,301 - logger - INFO - Calculating fraud rates by country.
+2025-02-07 16:49:52,331 - logger - INFO - Fraud rates calculated successfully.
+2025-02-07 16:49:52,331 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 16:49:52,349 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 16:49:52,349 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-07 16:49:52,367 - logger - INFO - Data merged successfully.
+2025-02-07 16:49:52,367 - logger - INFO - Starting full geolocation analysis.
+2025-02-07 16:49:52,367 - logger - INFO - Plotting fraud rate map.
+2025-02-07 16:49:52,687 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-07 16:49:52,687 - logger - INFO - Plotting transaction volume map.
+2025-02-07 16:49:52,933 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-07 16:49:52,934 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-07 16:51:27,019 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 16:51:27,024 - logger - INFO - Country names standardized successfully.
+2025-02-07 16:51:27,024 - logger - INFO - Calculating fraud rates by country.
+2025-02-07 16:51:27,059 - logger - INFO - Fraud rates calculated successfully.
+2025-02-07 16:51:27,059 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 16:51:27,099 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 16:51:27,099 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-07 16:51:27,116 - logger - INFO - Data merged successfully.
+2025-02-07 16:51:30,652 - logger - INFO - Starting full geolocation analysis.
+2025-02-07 16:51:30,653 - logger - INFO - Plotting fraud rate map.
+2025-02-07 16:51:31,046 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-07 16:51:31,046 - logger - INFO - Plotting transaction volume map.
+2025-02-07 16:51:31,293 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-07 16:51:31,294 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-07 16:53:59,139 - logger - INFO - Dataset loaded successfully.
+2025-02-07 16:54:08,880 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 16:54:10,423 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 16:54:49,067 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 16:54:52,258 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 16:54:56,670 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 16:54:57,259 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 16:55:04,077 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 16:55:05,643 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 16:55:05,679 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 16:55:08,139 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 16:55:08,151 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 16:55:20,467 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 16:55:30,609 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 16:55:30,620 - logger - INFO - Country names standardized successfully.
+2025-02-07 16:55:30,621 - logger - INFO - Calculating fraud rates by country.
+2025-02-07 16:55:30,733 - logger - INFO - Fraud rates calculated successfully.
+2025-02-07 16:55:30,733 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 16:55:30,750 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 16:55:30,750 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-07 16:55:30,896 - logger - INFO - Data merged successfully.
+2025-02-07 16:55:30,912 - logger - INFO - Starting full geolocation analysis.
+2025-02-07 16:55:30,912 - logger - INFO - Plotting fraud rate map.
+2025-02-07 16:55:32,234 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-07 16:55:32,234 - logger - INFO - Plotting transaction volume map.
+2025-02-07 16:55:32,812 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-07 16:55:32,812 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-07 17:02:23,427 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 17:02:23,447 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 17:05:48,466 - logger - INFO - Dataset loaded successfully.
+2025-02-07 17:05:58,465 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 17:05:59,375 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 17:06:33,775 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 17:06:36,268 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 17:06:39,615 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 17:06:40,217 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 17:06:45,259 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 17:06:46,856 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 17:06:46,871 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 17:06:49,155 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 17:06:49,169 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 17:07:00,620 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 17:07:06,628 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 17:07:06,638 - logger - INFO - Country names standardized successfully.
+2025-02-07 17:07:06,639 - logger - INFO - Calculating fraud rates by country.
+2025-02-07 17:07:06,670 - logger - INFO - Fraud rates calculated successfully.
+2025-02-07 17:07:06,670 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 17:07:06,683 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 17:07:06,683 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-07 17:07:06,697 - logger - INFO - Data merged successfully.
+2025-02-07 17:07:06,711 - logger - INFO - Starting full geolocation analysis.
+2025-02-07 17:07:06,711 - logger - INFO - Plotting fraud rate map.
+2025-02-07 17:07:07,190 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-07 17:07:07,190 - logger - INFO - Plotting transaction volume map.
+2025-02-07 17:07:07,712 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-07 17:07:07,734 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-07 17:07:07,757 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 17:07:07,777 - logger - INFO - Transaction volumes calculated successfully.
