@@ -113,7 +113,7 @@ class GeolocationAnalyzer:
             projection='natural earth',
         )
         fig.update_geos(fitbounds="locations", visible=False)
-        fig.show()
+        #fig.show()
         self.logger.info("Fraud rate map plotted successfully.")
         return fig
 
@@ -134,7 +134,7 @@ class GeolocationAnalyzer:
             projection='natural earth',
         )
         fig.update_geos(fitbounds="locations", visible=False)
-        fig.show()
+        #fig.show()
         self.logger.info("Transaction volume map plotted successfully.")
         return fig
 

@@ -165,3 +165,194 @@
 2025-02-07 17:07:07,734 - logger - INFO - Geolocation analysis completed successfully.
 2025-02-07 17:07:07,757 - logger - INFO - Calculating transaction volumes by country.
 2025-02-07 17:07:07,777 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 17:51:32,189 - logger - INFO - Dataset loaded successfully.
+2025-02-07 17:51:39,375 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-07 17:51:40,201 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-07 17:52:17,947 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-07 17:52:20,578 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-07 17:52:24,036 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-07 17:52:24,482 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-07 17:52:29,201 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-07 17:52:30,587 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-07 17:52:30,602 - logger - INFO - Plotting purchase patterns over time.
+2025-02-07 17:52:32,498 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-07 17:52:32,511 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-07 17:52:43,634 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-07 17:52:51,357 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-07 17:52:51,467 - logger - INFO - Country names standardized successfully.
+2025-02-07 17:52:51,468 - logger - INFO - Calculating fraud rates by country.
+2025-02-07 17:52:51,506 - logger - INFO - Fraud rates calculated successfully.
+2025-02-07 17:52:51,506 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 17:52:51,525 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-07 17:52:51,525 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-07 17:52:51,540 - logger - INFO - Data merged successfully.
+2025-02-07 17:52:51,553 - logger - INFO - Starting full geolocation analysis.
+2025-02-07 17:52:51,553 - logger - INFO - Plotting fraud rate map.
+2025-02-07 17:52:52,936 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-07 17:52:52,937 - logger - INFO - Plotting transaction volume map.
+2025-02-07 17:52:53,402 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-07 17:52:53,403 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-07 17:52:53,451 - logger - INFO - Calculating transaction volumes by country.
+2025-02-07 17:52:54,031 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-11 09:32:28,669 - logger - INFO - Dataset loaded successfully.
+2025-02-11 09:32:36,167 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-11 09:32:37,018 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-11 09:33:15,553 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-11 09:33:17,984 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-11 09:33:21,517 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-11 09:33:22,090 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-11 09:33:29,559 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-11 09:33:30,908 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-11 09:33:30,923 - logger - INFO - Plotting purchase patterns over time.
+2025-02-11 09:33:33,532 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-11 09:33:33,544 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-11 09:33:44,441 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-11 09:33:51,502 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-11 09:33:51,518 - logger - INFO - Country names standardized successfully.
+2025-02-11 09:33:51,518 - logger - INFO - Calculating fraud rates by country.
+2025-02-11 09:33:51,552 - logger - INFO - Fraud rates calculated successfully.
+2025-02-11 09:33:51,552 - logger - INFO - Calculating transaction volumes by country.
+2025-02-11 09:33:51,566 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-11 09:33:51,566 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-11 09:33:51,588 - logger - INFO - Data merged successfully.
+2025-02-11 09:33:51,604 - logger - INFO - Starting full geolocation analysis.
+2025-02-11 09:33:51,604 - logger - INFO - Plotting fraud rate map.
+2025-02-11 09:33:52,140 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-11 09:33:52,141 - logger - INFO - Plotting transaction volume map.
+2025-02-11 09:33:52,566 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-11 09:33:52,566 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-11 09:33:52,609 - logger - INFO - Calculating transaction volumes by country.
+2025-02-11 09:33:52,624 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-11 09:33:52,667 - logger - INFO - Plotting transaction volume map.
+2025-02-11 09:33:53,201 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-11 09:43:17,638 - logger - INFO - Dataset loaded successfully.
+2025-02-11 09:43:25,008 - logger - INFO - Plotting purchase_value vs age scatter plot.
+2025-02-11 09:43:25,778 - logger - INFO - Successfully plotted purchase_value vs age scatter plot.
+2025-02-11 09:43:55,883 - logger - INFO - Plotting categorical variables distributions by class.
+2025-02-11 09:43:57,825 - logger - INFO - Successfully plotted multiple distributions by class.
+2025-02-11 09:44:00,479 - logger - INFO - Plotting source vs browser heatmap.
+2025-02-11 09:44:00,872 - logger - INFO - Successfully plotted source vs browser heatmap.
+2025-02-11 09:44:04,917 - logger - INFO - Plotting the distribution of purchase delays.
+2025-02-11 09:44:06,007 - logger - INFO - Successfully plotted the distribution of purchase delays.
+2025-02-11 09:44:06,020 - logger - INFO - Plotting purchase patterns over time.
+2025-02-11 09:44:07,677 - logger - INFO - Successfully plotted purchase patterns over time.
+2025-02-11 09:44:07,690 - logger - INFO - Plotting the relationship between purchase value and purchase delay.
+2025-02-11 09:44:15,968 - logger - INFO - Successfully plotted purchase value vs. delay.
+2025-02-11 09:44:21,028 - logger - INFO - Standardizing country names in the world GeoDataFrame.
+2025-02-11 09:44:21,037 - logger - INFO - Country names standardized successfully.
+2025-02-11 09:44:21,037 - logger - INFO - Calculating fraud rates by country.
+2025-02-11 09:44:21,056 - logger - INFO - Fraud rates calculated successfully.
+2025-02-11 09:44:21,057 - logger - INFO - Calculating transaction volumes by country.
+2025-02-11 09:44:21,069 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-11 09:44:21,069 - logger - INFO - Merging data with world GeoDataFrame.
+2025-02-11 09:44:21,076 - logger - INFO - Data merged successfully.
+2025-02-11 09:44:21,383 - logger - INFO - Starting full geolocation analysis.
+2025-02-11 09:44:21,383 - logger - INFO - Plotting fraud rate map.
+2025-02-11 09:44:21,691 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-11 09:44:21,691 - logger - INFO - Plotting transaction volume map.
+2025-02-11 09:44:21,907 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-11 09:44:21,907 - logger - INFO - Geolocation analysis completed successfully.
+2025-02-11 09:44:21,922 - logger - INFO - Calculating transaction volumes by country.
+2025-02-11 09:44:21,940 - logger - INFO - Transaction volumes calculated successfully.
+2025-02-11 09:44:22,008 - logger - INFO - Plotting transaction volume map.
+2025-02-11 09:44:22,252 - logger - INFO - Transaction volume map plotted successfully.
+2025-02-11 09:50:12,180 - logger - INFO - Calculating fraud rates by country.
+2025-02-11 09:50:12,211 - logger - INFO - Fraud rates calculated successfully.
+2025-02-11 09:50:31,938 - logger - INFO - Plotting fraud rate map.
+2025-02-11 09:50:32,158 - logger - INFO - Fraud rate map plotted successfully.
+2025-02-11 10:13:03,874 - logger - INFO - Dataset loaded successfully.
+2025-02-11 10:13:03,883 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 10:13:03,883 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 10:13:03,884 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 10:13:03,949 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 10:13:03,949 - logger - INFO - Preprocessing datetime features...
+2025-02-11 10:13:04,251 - logger - INFO - Datetime features successfully created.
+2025-02-11 10:13:04,252 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 10:13:04,554 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 10:13:04,556 - logger - INFO - Encoding categorical features...
+2025-02-11 10:13:04,668 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 10:13:04,668 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 10:13:04,708 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 10:13:04,733 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 10:13:04,733 - logger - INFO - Retrieving processed data...
+2025-02-11 10:13:04,734 - logger - INFO - Processed data retrieved successfully.
+2025-02-11 10:14:42,721 - logger - INFO - Dataset loaded successfully.
+2025-02-11 10:14:42,733 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 10:14:42,733 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 10:14:42,733 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 10:14:42,811 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 10:14:42,811 - logger - INFO - Preprocessing datetime features...
+2025-02-11 10:14:43,077 - logger - INFO - Datetime features successfully created.
+2025-02-11 10:14:43,077 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 10:14:43,382 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 10:14:43,385 - logger - INFO - Encoding categorical features...
+2025-02-11 10:14:43,499 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 10:14:43,499 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 10:14:43,541 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 10:14:43,562 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 10:14:43,562 - logger - INFO - Retrieving processed data...
+2025-02-11 10:14:43,562 - logger - INFO - Processed data retrieved successfully.
+2025-02-11 10:24:32,002 - logger - INFO - Dataset loaded successfully.
+2025-02-11 10:24:32,022 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 10:24:32,022 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 10:24:32,023 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 10:24:32,114 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 10:24:32,114 - logger - INFO - Preprocessing datetime features...
+2025-02-11 10:24:32,389 - logger - INFO - Datetime features successfully created.
+2025-02-11 10:24:32,389 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 10:24:32,655 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 10:24:32,657 - logger - INFO - Encoding categorical features...
+2025-02-11 10:24:32,767 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 10:24:32,767 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 10:24:32,810 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 10:24:32,835 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 10:24:32,836 - logger - INFO - Retrieving processed data...
+2025-02-11 10:24:32,836 - logger - INFO - Processed data retrieved successfully.
+2025-02-11 10:24:47,894 - logger - INFO - Dataset loaded successfully.
+2025-02-11 10:24:47,924 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 10:24:47,924 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 10:24:47,924 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 10:24:48,028 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 10:24:48,029 - logger - INFO - Preprocessing datetime features...
+2025-02-11 10:24:48,463 - logger - INFO - Datetime features successfully created.
+2025-02-11 10:24:48,463 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 10:24:48,854 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 10:24:48,859 - logger - INFO - Encoding categorical features...
+2025-02-11 10:24:49,110 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 10:24:49,111 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 10:24:49,190 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 10:24:49,233 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 10:24:49,233 - logger - INFO - Retrieving processed data...
+2025-02-11 10:24:49,233 - logger - INFO - Processed data retrieved successfully.
+2025-02-11 13:19:09,773 - logger - INFO - Dataset loaded successfully.
+2025-02-11 13:19:09,785 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 13:19:09,785 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 13:19:09,785 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 13:19:09,894 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 13:19:09,894 - logger - INFO - Preprocessing datetime features...
+2025-02-11 13:19:10,253 - logger - INFO - Datetime features successfully created.
+2025-02-11 13:19:10,254 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 13:19:10,747 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 13:19:10,751 - logger - INFO - Encoding categorical features...
+2025-02-11 13:19:10,894 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 13:19:10,894 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 13:19:10,951 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 13:19:10,984 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 13:19:10,984 - logger - INFO - Retrieving processed data...
+2025-02-11 13:19:10,985 - logger - INFO - Processed data retrieved successfully.
+2025-02-11 13:19:59,388 - logger - INFO - Dataset loaded successfully.
+2025-02-11 13:19:59,401 - logger - INFO - FeatureEngineering class initialized with the provided DataFrame.
+2025-02-11 13:19:59,401 - logger - INFO - Starting the feature engineering pipeline...
+2025-02-11 13:19:59,401 - logger - INFO - Calculating fraud rate by country...
+2025-02-11 13:19:59,515 - logger - INFO - Fraud rate calculated and merged successfully.
+2025-02-11 13:19:59,515 - logger - INFO - Preprocessing datetime features...
+2025-02-11 13:19:59,845 - logger - INFO - Datetime features successfully created.
+2025-02-11 13:19:59,846 - logger - INFO - Calculating transaction frequency and velocity...
+2025-02-11 13:20:00,212 - logger - INFO - Transaction frequency and velocity calculated successfully.
+2025-02-11 13:20:00,215 - logger - INFO - Encoding categorical features...
+2025-02-11 13:20:00,368 - logger - INFO - Categorical features encoded successfully.
+2025-02-11 13:20:00,368 - logger - INFO - Normalizing and scaling numerical features...
+2025-02-11 13:20:00,419 - logger - INFO - Numerical features normalized and scaled successfully.
+2025-02-11 13:20:00,448 - logger - INFO - Feature engineering pipeline executed successfully.
+2025-02-11 13:20:00,448 - logger - INFO - Retrieving processed data...
+2025-02-11 13:20:00,448 - logger - INFO - Processed data retrieved successfully.
