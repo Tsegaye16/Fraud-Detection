@@ -196,10 +196,12 @@ class ModelTraining:
                     mlflow.sklearn.log_model(model, f"{name.lower()}_model")
 
                 print(f"{name} model trained and logged with MLflow")
+                # Compute a weighted score
+                weighted_score = 0.4 * acc + 0.3 * f1 + 0.3 * roc_auc
 
                 # Track the best model based on accuracy
-                if acc > best_score:
-                    best_score = acc
+                if weighted_score > best_score:
+                    best_score = weighted_score
                     best_model = model
                     best_model_name = name
 

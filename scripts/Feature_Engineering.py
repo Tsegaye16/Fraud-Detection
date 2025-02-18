@@ -66,7 +66,7 @@ class FeatureEngineering:
     def normalize_and_scale(self):
         self.logging.info("Normalizing and scaling numerical features...")
         try:
-            numerical_features = ['purchase_value', 'user_transaction_frequency', 'device_transaction_frequency', 
+            numerical_features = ['purchase_value',  'device_transaction_frequency', 
                                   'user_transaction_velocity', 'hour_of_day', 'day_of_week', 'purchase_delay', 
                                   'age', 'fraud_rate'] 
             self.df[numerical_features] = self.scaler.fit_transform(self.df[numerical_features])
