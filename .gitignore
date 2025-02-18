@@ -1,4 +1,5 @@
 /data
 /api/random_forest_fraud_best_model.pkl
+/api
 /mlruns
 /notebooks/mlruns
